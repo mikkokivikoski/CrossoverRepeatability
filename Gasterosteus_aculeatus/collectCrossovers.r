@@ -1,4 +1,3 @@
-setwd("/scratch/project_2000878/211027crossOverHeritability/gacu/data")
 ##
 #STEP 1: Concatenate the recombinations
 header = read.table("",sep="\t",stringsAsFactors=F)#From Kivikoski et al. 2022

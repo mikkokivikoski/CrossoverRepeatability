@@ -1,4 +1,3 @@
-setwd("/scratch/project_2000878/211027crossOverHeritability/ppun/230125analyses/heritability/results")
 library(MCMCglmm)
 library(ggplot2)
 
